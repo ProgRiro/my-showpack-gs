@@ -3,3 +3,9 @@ build
 npm-debug.log
 .env
 .DS_Store
+
+# SSL
+snowpack.key
+snowpack.crt
+localhost.key
+localhost.cert
