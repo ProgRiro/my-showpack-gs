@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:ProgRiro/my-showpack-gs.git",
   "author": "progriro <progriro@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "snowpack": "^3.0.11"
+  }
 }
