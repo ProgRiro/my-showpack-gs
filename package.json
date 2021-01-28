@@ -5,6 +5,10 @@
   "repository": "git@github.com:ProgRiro/my-showpack-gs.git",
   "author": "progriro <progriro@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
   "devDependencies": {
     "snowpack": "^3.0.11"
   }
